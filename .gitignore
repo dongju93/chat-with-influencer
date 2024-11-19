@@ -1,4 +1,7 @@
 # Ignore Mac system files
 .DS_Store
 */**/.DS_Store
+
+# etc
+.vscode/
 *.pptx
